@@ -10,7 +10,7 @@ See the [API documentation] (https://openlibrary.org/developers/api)
 Install
 -------
 
-	pip install pyopenlibrary
+	pip install openlibrary
 
 Usage
 -----
